@@ -9,6 +9,7 @@
 		"name": "Igor Vaiman",
 		"url": "https://github.com/nj-vs-vh"
 	},
+	"publisher": "nj-vs-vh",
 	"displayName": "Activation scripts",
 	"description": "Activation script runner for VS Code integrated terminal",
 	"version": "0.0.1",

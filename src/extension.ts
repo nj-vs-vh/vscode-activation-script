@@ -61,7 +61,7 @@ function activateTerminal(t: vscode.Terminal) {
 		(doc) => {
 			const data = JSON.parse(doc.getText());
 			for (const script of data['scripts']) {
-				t.sendText(`source ${script["path"]}`, true);
+				t.sendText(`. ${script["path"]}`, true);
 			}
 			for (const cmd of data['commands']) {
 				t.sendText(cmd, true);

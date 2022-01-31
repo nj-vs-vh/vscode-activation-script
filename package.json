@@ -12,7 +12,7 @@
 	"publisher": "nj-vs-vh",
 	"displayName": "Activation scripts",
 	"description": "Activation script runner for VS Code integrated terminal",
-	"version": "0.0.1",
+	"version": "0.0.2",
 	"engines": {
 		"vscode": "^1.63.0"
 	},

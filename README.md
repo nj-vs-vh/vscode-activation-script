@@ -2,7 +2,7 @@
 
 Execute arbitrary scripts and/or commands on terminal startup.
 
-[Marketplace](https://marketplace.visualstudio.com/manage/publishers/nj-vs-vh/extensions/activation-script/hub)
+[Marketplace](https://marketplace.visualstudio.com/items?itemName=nj-vs-vh.activation-script)
 
 ### Usage
 
